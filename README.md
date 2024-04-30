@@ -19,7 +19,7 @@ Minha formação técnica aliada à educação universitária proporciona uma ba
 
 <h3 align="left">Conecte-se comigo</h3>
 
-[![Portfolio](https://kennedy7sa.github.io/portifolioone/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6DB33F?style=for-the-badge)](https://kennedy7sa.github.io/portifolioone/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=EC2025)](mailto:kennedy.arruda@aluno.unip.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=6DB33F)](https://www.linkedin.com/in/kennedy-arruda-devbackend/)
 
