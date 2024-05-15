@@ -31,6 +31,7 @@ Minha formação técnica aliada à educação universitária proporciona uma ba
 ![css](https://img.shields.io/badge/css-000?style=for-the-badge&logo=css3&logoColor=EC2025)
 ![html](https://img.shields.io/badge/html-000?style=for-the-badge&logo=html5&logoColor=6DB33F)
 
+![Itellij](https://img.shields.io/badge/intellij-000?style=for-the-badge&logo=intellij&logoColor=6DB33F)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio-000?style=for-the-badge&logo=visual%20studio&logoColor=6DB33F)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=EC2025)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=6DB33F)
