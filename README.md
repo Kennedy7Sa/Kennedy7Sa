@@ -9,13 +9,13 @@
 
 <img align="right" alt="Developer vector created by www.freepik.com" height="380" src="https://raw.githubusercontent.com/KEENNEEDYY/KEENNEEDYY/main/hand-coding-animate-green.svg">
 <p align="justify">
-Olá rede! Atualmente, atuo como instrutor de informática na empresa Fast Comp, uma posição que tem aprimorado significativamente minhas habilidades técnicas em ferramentas essenciais de TI.
+Desenvolvedor Full Stack, especializado em Java e Spring Framework. Trabalhando profissionalmente com Java desde 2023, melhorando o desempenho e as integrações de aplicações e tendo experiência no desenvolvimento de aplicações back-end com Spring Boot. 
 
-Atualmente, estou comprometido com meu crescimento acadêmico e profissional, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP). Esta jornada acadêmica tem contribuído significativamente para a expansão do meu conhecimento em áreas como programação, design de sistemas e resolução de problemas complexos.
+Sou apaixonado por construir produtos bem-sucedidos, sou um excelente com trabalho em equipe, experiente em simplificar processos para melhorar a experiência do cliente e solucionar problemas de projetos de forma eficiente.
 
-Minha formação técnica aliada à educação universitária proporciona uma base sólida para enfrentar desafios diversos no campo da Tecnologia da Informação. Sou motivado por aprender continuamente, adaptar-me rapidamente às mudanças tecnológicas e contribuir positivamente para o sucesso da equipe e da empresa.
 <br><br>
- O que verdadeiramente me inspira é o impacto positivo que a tecnologia e suas diversas aplicações traz para vida das pessoas. Se desejar entrar em contato, estou sempre disponível para estabelecer novas conexões por meio das minhas redes sociais: </p>
+[Principal Projeto](https://github.com/Kennedy7Sa/projetoFullsatck-evento-com-spring)
+ </p>
 
 <h3 align="left">Conecte-se comigo</h3>
 
