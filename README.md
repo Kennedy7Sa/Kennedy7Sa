@@ -4,18 +4,25 @@
     <img alt="KEENNEEDYY-SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
     <img alt="KEENNEEDYY-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img alt="KEENNEEDYY-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/>
+    <img alt="KEENNEEDYY-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+    <img alt="KEENNEEDYY-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/>
   </a>
   <span>Kennedy S. Arruda</span>
 </h1>
 
+
 <img align="right" alt="Developer vector created by www.freepik.com" height="380" src="https://raw.githubusercontent.com/KEENNEEDYY/KEENNEEDYY/main/hand-coding-animate-green.svg">
 
 <p align="justify">
-Desenvolvedor Full Stack. Trabalhando profissionalmente com C# em 2024, melhorando o desempenho e as integrações de aplicações e tendo experiência no desenvolvimento de aplicações back-end com Entity framework.
+Atualmente estou focando meus estudos em Python, especialmente em automação e análise de dados. Em 2024, atuei como desenvolvedor júnior na Estamparia Salete, onde fui responsável pela manutenção e melhorias de uma Web API desenvolvida em .NET.
 
-Atualmente também trabalho com desenvolvimento de APIs em C# utilizando .NET Core e criação de scripts e automações em Python. 
+Sou Desenvolvedor Full Stack, com experiência profissional em C#, atuando no aprimoramento de desempenho, integração de aplicações e desenvolvimento de back-end utilizando o Entity Framework.
 
-Sou apaixonado por construir produtos bem-sucedidos, sou excelente com trabalho em equipe, experiente em simplificar processos para melhorar a experiência do cliente e solucionar problemas de projetos de forma eficiente.
+No momento, continuo trabalhando com desenvolvimento de APIs em C# utilizando .NET Core, além de me especializar na criação de scripts e automações em Python.
+
+Sou apaixonado por construir produtos de sucesso, valorizo o trabalho em equipe e tenho facilidade em simplificar processos para otimizar a experiência do usuário e resolver problemas de maneira eficiente.
+
+
 
 <br><br>
 [Principal Projeto](https://github.com/Kennedy7Sa/Projeto_Oficina_GUI_PyQt6)
