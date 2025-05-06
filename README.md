@@ -2,8 +2,7 @@
   <a align="left" href="https://kennedy7sa.github.io/portifolioone/">
     <img alt="KEENNEEDYY-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
     <img alt="KEENNEEDYY-SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
-    <img alt="KEENNEEDYY-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-    <img alt="KEENNEEDYY-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/>
+    <img alt="KEENNEEDYY-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>    
     <img alt="KEENNEEDYY-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
     <img alt="KEENNEEDYY-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/>
   </a>
@@ -30,7 +29,7 @@ Sou apaixonado por construir produtos de sucesso, valorizo o trabalho em equipe 
 
 <h3 align="left">Conecte-se comigo</h3>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6DB33F?style=for-the-badge)](https://kennedy7sa.github.io/portifolioone/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6DB33F?style=for-the-badge)](https://kennedy7sa.github.io/portifolio2024/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=EC2025)](mailto:kennedy.arruda@aluno.unip.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=6DB33F)](https://www.linkedin.com/in/kennedy-arruda-devbackend/)
 
